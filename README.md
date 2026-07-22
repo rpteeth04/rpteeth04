@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://via.placeholder.com/1500x500/E2D7F4/333333?text=Dr.+Ratnapriya+Thakur+-+Clinical+Professional+%26+Medical+Affairs+Strategist" width="100%" alt="Profile Banner" />
+  <img src="https://unsplash.com/photos/orion-nebula-astrophotography-f7YQo-eYHdM" width="100%" alt="Profile Banner" />
 </div>
 
 <br />
