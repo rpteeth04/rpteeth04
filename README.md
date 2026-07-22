@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://unsplash.com/photos/orion-nebula-astrophotography-f7YQo-eYHdM" width="100%" alt="Profile Banner" />
+  <img src="https://unsplash.com/photos/orion-nebula-astrophotography-f7YQo-eYHdM" width="100%" />
 </div>
 
 <br />
