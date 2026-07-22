@@ -1,20 +1,18 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://unsplash.com/photos/orion-nebula-astrophotography-f7YQo-eYHdM" width="100%" />
+  <h3>Dr. Ratnapriya Thakur (BDS, FAGE) </h3>
+</div>
 </div>
 
 <br />
 
 <div align="center">
-  <h3>Bridging clinical expertise with AI fluency, technical problem-solving, and strategic communication.</h3>
+  <h3>Clinical Professional | Aspiring Medical Affairs & Clinical Research Professional</h3>
 </div>
 
 ---
 
 ## 👩🏻‍⚕️ About Me
-
-**Dr. Ratnapriya Thakur, BDS, FAGE**  
-*Clinical Professional | Aspiring Medical Affairs & Clinical Research Professional*
 
 As a BDS graduate with a rigorous foundation in dental surgery and patient-centric care, I am actively transitioning into Medical Affairs and Clinical Research roles. To bridge the gap between frontline clinical practice and pharmaceutical strategy, I am proactively upskilling in **ICH-GCP protocols** and clinical trial methodologies. 
 
