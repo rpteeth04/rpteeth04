@@ -39,7 +39,7 @@ This interactive portfolio piece represents a a 3-tier Generative AI failure mod
 
 ### 🚀 2. [OSCC Clinical Gap Analysis]
 A clinical gap analysis of oral squamous cell carcinoma (OSCC) diagnostics, biomarker testing, and treatment-toxicity management using NCCN/ESMO guidelines, with a multidisciplinary Key Opinion Leader engagement campaign (”Tissue is the Issue”) to translate clinical evidence into stakeholder-facing scientific communication.
-* **Core Competency:** Showcases practical AI fluency, strategic prompt engineering, and the resourcefulness to rapidly deploy new digital assets.
+* **Core Competency:** Clinical gap analyses, Interpreting NCCN/ESMO guidelines, Designing Key Opinion Leader (KOL) engagement plans (Tissue is the Issue), and identifying real-world gaps in biomarker implementation.
 
 <a href="https://rpteeth04.github.io/ClincalGapAnalysis_OralCancer/" target="_blank"><img src="https://img.shields.io/badge/💻_Launch_Live_App-C4D7E0?style=for-the-badge&logoColor=333333" alt="Live Demo" /></a>
 
